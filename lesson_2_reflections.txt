@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+it creates a master head. Repository is created by initiation git command in order to create commits later on
+
+
+
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It sets you to choose what should be comitted and what should not be either at the sametime, different times or not at all. 
